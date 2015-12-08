@@ -1,0 +1,28 @@
+name: Faded
+favicon: null
+layout_spectrum: 0.7917364400345832
+typography_spectrum: 0.4427816909737885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.13130271108821034
+  lightness: 0.40272406372241676
+  saturation: 0.7557260654866695
+  rhythmicContrast: 0.4212216380983591
+purpose: []
